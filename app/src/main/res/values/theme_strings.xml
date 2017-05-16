@@ -2,10 +2,7 @@
     <string name="ThemeName">Jio Midnight</string>
     <string name="ThemeAuthor">coldBl00d</string>
     <string-array name="ThemeChangelog">
-        <item>Something Changed</item>
-        <item>Change Two</item>
-        <item>Change Three</item>
-        <item>Change Four</item>
-        <item>Change Five</item>
+        <item>Themed with midnight color</item>
+        <item>Calling screen not themed yet</item>
     </string-array>
 </resources>
