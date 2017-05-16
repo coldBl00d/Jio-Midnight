@@ -2,7 +2,7 @@
     <string name="ThemeName">Jio Midnight</string>
     <string name="ThemeAuthor">coldBl00d</string>
     <string-array name="ThemeChangelog">
-        <item>Change One</item>
+        <item>Something Changed</item>
         <item>Change Two</item>
         <item>Change Three</item>
         <item>Change Four</item>

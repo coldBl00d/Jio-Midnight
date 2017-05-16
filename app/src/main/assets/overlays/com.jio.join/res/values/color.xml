@@ -16,4 +16,5 @@
     <color name="joyn_wit_white_call_composer_bottom_actionbar_textcolor_disable">#8c2c3e50</color>
     <color name="wit_white_calls_background">#ff2c3e50</color>
     <color name="wit_white_calls_reject_background">#ff2c3e50</color>
+    <color name="white">#ffedf4fc</color>
 </resources>
