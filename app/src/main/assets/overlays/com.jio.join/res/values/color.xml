@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wit_white_primary_color">#ff2c3e50</color>
+    <color name="wit_white_action_color">#ff2c3e50</color>
+    <color name="wit_white_background">#ffedf4fc</color>
+    <color name="fcd_frame_background">#ff2c3e50</color>
+    <color name="circular_reveal_from_color">#ff2c3e50</color>
+    <color name="joyn_wit_white_call_composer_bottom_actionbar_textcolor">#ff2c3e50</color>
+    <color name="joyn_wit_white_chat_highlight_incoming">#ff2c3e50</color>
+    <color name="joyn_wit_white_green">#ff2c3e50</color>
+    <color name="joyn_wit_white_quick_profile_header">#ff2c3e50</color>
+    <color name="wit_white_ripple_color">#ff2c3e50</color>
+    <color name="wit_white_primary_dark_color">#ff263647</color>
+    <color name="cardview_light_background">#ffedf4fc</color>
+
+    <color name="joyn_wit_white_call_composer_bottom_actionbar_textcolor_disable">#8c2c3e50</color>
+    <color name="wit_white_calls_background">#ff2c3e50</color>
+    <color name="wit_white_calls_reject_background">#ff2c3e50</color>
+</resources>
